@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeanJFox
 - 👀 I’m interested in React/Node, Python, Solidity
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on react/node projects, solidity
+- 💞️ I’m looking to collaborate on react/node, solidity, NFT, and general cryptocurrency projects 
 - 📫 How to reach me: sean@seanfox.co.uk
 
 <!---
