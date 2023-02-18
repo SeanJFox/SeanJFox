@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @SeanJFox
-- 👀 I’m interested in React/Node, Python, Solidity
-- 💞️ I’m looking to collaborate on react/node, solidity, NFT, and general cryptocurrency projects 
+- 👀 I’m experienced in React/Node, Python, and some Solidity.
